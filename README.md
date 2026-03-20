@@ -23,8 +23,8 @@ A simple **Python CLI tool** to list, show, and save WiFi passwords on your syst
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wifi-password-manager.git
-cd wifi-password-manager
+git clone https://github.com/Mahdi-Haqiqat/Wifi-Password-Manager.git
+cd Wifi-Password-Manager
 ```
 
 2. Install dependencies (if any):
