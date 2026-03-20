@@ -1,6 +1,5 @@
 # 🔐 WiFi Password Manager
-
-[![Python](https://img.shields.io/pypi/pyversions/python?style=for-the-badge)](https://www.python.org/)  
+  
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 A simple **Python CLI tool** to list, show, and save WiFi passwords on your system. Perfect for quick recovery of saved WiFi credentials. 💻✨
